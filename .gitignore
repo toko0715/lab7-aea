@@ -1,0 +1,5 @@
+bin/
+obj/
+capturas/
+*.user
+.vs/
